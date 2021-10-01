@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "945025541582",
+    "project_id": "tokyonew-db5b8",
+    "storage_bucket": "tokyonew-db5b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945025541582:android:309434554421208732779f",
+        "android_client_info": {
+          "package_name": "com.tokyosecretuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945025541582-lmp1e35kt2jo8p9quo4of2cu4k0s988k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tokyosecretuser",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "945025541582-g13i18tn7ul98o8nmspk07pptsrkuqie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARlv_vFOM3MKm17paK82MeClfF1WWBxdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945025541582-g13i18tn7ul98o8nmspk07pptsrkuqie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
